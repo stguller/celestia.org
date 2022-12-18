@@ -11,6 +11,7 @@ title: "The Celestia reading list"
 2. <a href="https://twitter.com/0xSydney/status/1600873510208827392" target="_blank" rel="noopener noreferrer" style="color:#7B2BF9;">What are modular blockchains?</a>
 3. <a href="https://twitter.com/LeThang137/status/1603420186463604736" target="_blank" rel="noopener noreferrer" style="color:#7B2BF9;">Celestia deep dive thread</a>
 4. <a href="https://blog.celestia.org/modular-vs-monolithic-a-beginners-guide/" target="_blank" rel="noopener noreferrer" style="color:#7B2BF9;">Modular vs monolithic: a beginners guide</a>
+5. <a href="https://stguller.medium.com/what-is-the-celestia-network-73a20fd33d01" target="_blank" rel="noopener noreferrer" style="color:#7B2BF9;">What is the Celestia Network?</a>
 
 #### Intermediate
 1. <a href="https://coinmarketcap.com/alexandria/article/what-is-data-availability" target="_blank" rel="noopener noreferrer" style="color:#7B2BF9;">What is data availability?</a>
