@@ -19,6 +19,7 @@ title: "The Celestia reading list"
 3. <a href="https://celestia.org/learn/modular-architectures/the-modular-stack" target="_blank" rel="noopener noreferrer" style="color:#7B2BF9;">Modular blockchain architectures</a>
 4. <a href="https://celestia.org/learn/values-of-modular-blockchains/modular-blockchains-are-user-first" target="_blank" rel="noopener noreferrer" style="color:#7B2BF9;">Social values of modular blockchains</a>
 5. <a href="https://rainandcoffee.substack.com/p/the-modular-world?utm_source=profile&utm_medium=reader2" target="_blank" rel="noopener noreferrer" style="color:#7B2BF9;">The modular world</a>
+6. <a href="https://medium.com/@stguller/data-availability-faq-5aa92ad4d116;">Data Availability FAQ on Celestia Network</a>
 
 #### Advanced
 1. <a href="https://blog.celestia.org/sovereign-rollup-chains/" target="_blank" rel="noopener noreferrer" style="color:#7B2BF9;">Rollups as sovereign chains</a>
